@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="jeonbuk" inkscape:groupmode="layer" inkscape:label="jeonbuk">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="jeonbuk_1" >
+<path d="M 126,186 L 127,186 L 182,182 L 233,138 L 260,126 L 267,83 L 298,70 L 354,78 L 365,109 L 399,129 L 445,105 L 482,100 L 519,86 L 539,158 L 572,167 L 583,185 L 618,185 L 628,151 L 671,160 L 684,127 L 754,165 L 801,146 L 814,158 L 832,212 L 805,236 L 802,253 L 739,289 L 728,311 L 697,335 L 696,370 L 673,415 L 668,456 L 655,474 L 676,491 L 692,521 L 683,540 L 703,549 L 696,570 L 668,603 L 674,626 L 650,642 L 606,607 L 568,609 L 547,643 L 526,633 L 501,645 L 447,636 L 422,626 L 392,648 L 355,635 L 368,603 L 351,593 L 358,562 L 349,534 L 313,561 L 316,579 L 292,583 L 272,547 L 241,532 L 199,533 L 179,582 L 180,594 L 131,632 L 109,622 L 69,641 L 62,612 L 42,590 L 48,571 L 24,558 L 20,542 L 43,497 L 90,481 L 105,486 L 137,456 L 105,449 L 54,453 L 32,435 L 35,413 L 82,377 L 92,379 L 125,341 L 122,316 L 168,309 L 147,250 L 120,247 L 119,210 L 75,210 L 68,192 L 126,186 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 853,719 L 853,0 L 0,0 L 0,719 " />
+</g></svg>

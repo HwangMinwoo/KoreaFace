@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="busan" inkscape:groupmode="layer" inkscape:label="busan">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="busan_1" >
+<path d="M 119,563 L 129,612 L 153,649 L 119,701 L 85,639 L 84,605 L 119,563 " />
+<path d="M 485,557 L 491,610 L 445,584 L 451,543 L 485,557 " />
+<path d="M 681,27 L 757,17 L 786,55 L 746,223 L 746,267 L 714,353 L 670,392 L 642,437 L 551,440 L 538,476 L 565,504 L 558,539 L 474,525 L 378,569 L 348,634 L 313,631 L 301,578 L 264,555 L 219,581 L 132,575 L 132,503 L 66,448 L 139,439 L 195,393 L 178,360 L 201,336 L 252,332 L 281,312 L 347,306 L 368,291 L 395,222 L 436,224 L 535,157 L 567,79 L 588,58 L 632,80 L 681,27 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 852,719 L 852,0 L 0,0 L 0,719 " />
+</g></svg>

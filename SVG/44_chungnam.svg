@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="chungnam" inkscape:groupmode="layer" inkscape:label="chungnam">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="chungnam_1" >
+<path d="M 168,326 L 200,418 L 167,425 L 149,406 L 146,332 L 139,323 L 152,300 L 163,297 L 168,326 " />
+<path d="M 101,134 L 108,134 L 134,101 L 141,123 L 124,165 L 149,168 L 148,138 L 170,141 L 196,96 L 178,92 L 174,62 L 162,46 L 195,42 L 212,47 L 236,17 L 266,28 L 303,49 L 337,52 L 380,73 L 399,118 L 422,129 L 485,95 L 506,98 L 531,91 L 550,70 L 596,83 L 605,97 L 633,109 L 650,126 L 675,162 L 698,184 L 708,207 L 700,216 L 679,205 L 663,214 L 638,250 L 619,247 L 593,226 L 574,223 L 561,240 L 571,267 L 572,303 L 591,320 L 580,349 L 581,372 L 597,398 L 595,409 L 624,430 L 636,426 L 635,471 L 625,482 L 624,515 L 636,522 L 637,541 L 658,561 L 679,551 L 676,523 L 692,523 L 701,555 L 722,565 L 732,549 L 758,537 L 792,543 L 799,552 L 795,605 L 807,619 L 809,678 L 768,670 L 759,701 L 726,701 L 716,685 L 685,676 L 666,608 L 646,611 L 632,622 L 597,626 L 554,649 L 521,630 L 511,601 L 459,594 L 429,606 L 423,647 L 388,668 L 359,673 L 353,689 L 322,683 L 300,637 L 279,606 L 261,604 L 241,587 L 269,572 L 252,561 L 248,536 L 257,517 L 235,478 L 257,462 L 238,445 L 223,442 L 235,411 L 223,377 L 228,352 L 216,339 L 212,308 L 183,293 L 133,287 L 128,263 L 114,254 L 119,227 L 99,229 L 97,243 L 77,254 L 58,254 L 64,229 L 85,237 L 93,226 L 64,202 L 43,203 L 62,157 L 82,140 L 101,134 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 852,719 L 852,0 L 0,0 L 0,719 " />
+</g></svg>

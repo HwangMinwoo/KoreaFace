@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="kyungbuk" inkscape:groupmode="layer" inkscape:label="kyungbuk">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="kyungbuk_1" >
+<path d="M 738,487 L 737,508 L 718,545 L 723,566 L 702,654 L 696,661 L 662,650 L 643,665 L 630,644 L 610,633 L 574,640 L 555,664 L 532,682 L 508,669 L 487,688 L 453,701 L 418,689 L 398,696 L 375,678 L 372,640 L 390,628 L 406,643 L 426,635 L 426,606 L 452,573 L 444,546 L 447,526 L 429,508 L 402,512 L 377,530 L 371,549 L 337,546 L 320,580 L 344,582 L 320,620 L 338,634 L 331,647 L 294,665 L 257,670 L 252,624 L 233,610 L 229,595 L 210,586 L 190,591 L 148,566 L 153,542 L 144,503 L 171,487 L 181,460 L 176,436 L 188,427 L 173,409 L 129,384 L 143,368 L 137,343 L 148,288 L 139,276 L 114,264 L 131,248 L 160,248 L 159,219 L 168,200 L 195,194 L 204,164 L 216,170 L 236,161 L 258,166 L 267,140 L 295,164 L 329,166 L 339,150 L 330,138 L 336,116 L 384,65 L 406,57 L 425,66 L 443,60 L 450,45 L 476,60 L 498,54 L 502,43 L 551,52 L 562,38 L 596,63 L 622,30 L 654,17 L 658,35 L 676,52 L 671,69 L 676,138 L 696,180 L 697,209 L 683,221 L 674,255 L 688,294 L 683,334 L 666,368 L 665,403 L 673,451 L 686,463 L 669,484 L 674,503 L 694,515 L 725,481 L 738,487 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 853,719 L 853,0 L 0,0 L 0,719 " />
+</g></svg>

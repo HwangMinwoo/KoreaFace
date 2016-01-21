@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="daegu" inkscape:groupmode="layer" inkscape:label="daegu">
+</g>
+<g id="daejeon" inkscape:groupmode="layer" inkscape:label="daejeon">
+</g>
+<g id="gangwon" inkscape:groupmode="layer" inkscape:label="gangwon">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="gangwon_1" >
+<path d="M 533,144 L 537,163 L 551,182 L 554,210 L 585,257 L 599,269 L 621,308 L 651,351 L 714,419 L 714,443 L 736,461 L 735,478 L 762,515 L 767,533 L 786,548 L 792,573 L 814,593 L 824,612 L 814,653 L 795,665 L 769,699 L 733,673 L 722,687 L 672,678 L 667,689 L 645,696 L 639,684 L 619,680 L 612,695 L 593,701 L 567,687 L 539,682 L 514,672 L 494,675 L 480,651 L 463,651 L 450,662 L 440,649 L 439,629 L 418,611 L 402,627 L 357,638 L 351,613 L 337,607 L 316,622 L 321,644 L 270,659 L 258,646 L 254,629 L 262,585 L 260,558 L 274,531 L 259,499 L 290,477 L 257,460 L 240,463 L 206,434 L 188,444 L 189,403 L 175,373 L 178,350 L 208,321 L 203,299 L 184,294 L 181,279 L 152,272 L 146,231 L 125,227 L 104,238 L 89,224 L 92,199 L 70,218 L 58,208 L 50,174 L 32,174 L 28,158 L 38,146 L 77,132 L 94,146 L 116,145 L 127,131 L 155,138 L 167,147 L 194,131 L 258,138 L 276,152 L 293,154 L 305,141 L 336,155 L 369,151 L 381,134 L 411,131 L 416,115 L 435,112 L 435,94 L 449,92 L 461,57 L 457,45 L 470,17 L 484,33 L 500,86 L 519,112 L 533,144 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 853,719 L 853,0 L 0,0 L 0,719 " />
+</g></svg>

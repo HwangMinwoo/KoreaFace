@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="seoul" inkscape:groupmode="layer" inkscape:label="seoul">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="seoul_1" >
+<path d="M 447,185 L 438,137 L 463,114 L 473,70 L 494,65 L 508,26 L 557,42 L 574,60 L 635,40 L 664,57 L 660,166 L 692,170 L 704,231 L 703,285 L 677,321 L 682,380 L 725,357 L 765,351 L 799,326 L 817,336 L 830,405 L 792,408 L 751,480 L 758,510 L 788,517 L 762,570 L 732,577 L 702,611 L 677,610 L 646,650 L 614,660 L 612,683 L 576,691 L 552,667 L 540,611 L 503,627 L 480,597 L 426,627 L 395,664 L 354,668 L 340,649 L 286,676 L 269,630 L 227,551 L 175,578 L 124,565 L 126,516 L 143,450 L 129,415 L 34,396 L 42,363 L 90,294 L 127,288 L 193,335 L 237,325 L 277,300 L 284,245 L 308,164 L 377,134 L 394,144 L 407,200 L 447,185 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 853,719 L 853,0 L 0,0 L 0,719 " />
+</g></svg>

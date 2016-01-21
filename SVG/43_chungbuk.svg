@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="chungbuk" inkscape:groupmode="layer" inkscape:label="chungbuk">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="chungbuk_1" >
+<path d="M 446,17 L 471,54 L 526,40 L 545,20 L 573,68 L 623,70 L 711,132 L 650,196 L 641,260 L 597,258 L 562,227 L 551,260 L 482,258 L 470,297 L 436,303 L 425,365 L 388,364 L 367,386 L 410,416 L 396,486 L 404,518 L 386,539 L 443,570 L 452,635 L 440,669 L 398,695 L 353,701 L 302,677 L 274,634 L 278,589 L 231,577 L 235,484 L 224,456 L 190,458 L 191,411 L 162,395 L 141,346 L 150,311 L 191,271 L 142,217 L 217,133 L 249,128 L 317,84 L 425,61 L 446,17 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 852,719 L 852,0 L 0,0 L 0,719 " />
+</g></svg>

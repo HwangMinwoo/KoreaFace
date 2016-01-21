@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox = "0 0 855 721" version = "1.1">
+<!-- svg generated using QGIS www.qgis.org -->
+<g id="daegu" inkscape:groupmode="layer" inkscape:label="daegu">
+</g>
+<g id="daejeon" inkscape:groupmode="layer" inkscape:label="daejeon">
+<g stroke="none" fill="rgb(0,0,0)" stroke-linejoin="round" stroke-width="0.26">
+<g id="daejeon_1" >
+<path d="M 423,39 L 432,67 L 422,84 L 426,114 L 489,110 L 515,126 L 535,111 L 549,72 L 573,71 L 561,106 L 569,116 L 601,111 L 606,126 L 589,143 L 583,162 L 603,214 L 620,210 L 635,190 L 674,191 L 697,243 L 669,239 L 644,268 L 647,298 L 634,341 L 603,363 L 605,394 L 595,408 L 598,438 L 586,458 L 599,487 L 581,509 L 576,538 L 588,578 L 583,594 L 543,619 L 510,674 L 483,670 L 476,656 L 438,639 L 426,596 L 407,581 L 401,557 L 407,532 L 385,512 L 361,516 L 353,531 L 361,555 L 361,626 L 331,658 L 320,691 L 304,701 L 305,663 L 291,660 L 276,622 L 260,610 L 250,620 L 219,590 L 212,551 L 217,526 L 176,501 L 155,469 L 177,456 L 178,390 L 189,367 L 212,352 L 198,317 L 215,288 L 211,239 L 218,201 L 234,197 L 246,182 L 267,178 L 296,184 L 321,165 L 327,139 L 347,124 L 348,94 L 362,69 L 351,52 L 369,41 L 391,17 L 402,19 L 423,39 " />
+</g>
+</g>
+</g>
+<!-- QGIS extent for clipping, eg in Inkscape -->
+<g id="qgisviewbox" inkscape:groupmode="layer" inkscape:label="qgisviewbox" stroke="rgb(255,0,0)" stroke-width="1" fill="none" >
+<path d="M 0,719 L 852,719 L 852,0 L 0,0 L 0,719 " />
+</g></svg>
